@@ -51,7 +51,7 @@
 ```bash
 vizor.sendframe.exe 5000 192.168.1.100 6000 1280 720 500000
 ```
-- Streams frames from port `5000` to the receiver at address `192.168.1.100` on port `6000` with output dimensions `1280x720` and a bitrate of `500000 bps`.
+- Streams frames from port `5000` to the receiver at address `192.168.1.100` on port `6000` with output dimensions `1280x720` and a bitrate of `500000`.
 
 ### Receiving Frames
 ```bash
