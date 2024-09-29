@@ -23,7 +23,7 @@
 - **Graphics Requirements**:
   - **Streamer**: Requires an NVIDIA GPU with NVENC support.
   - **Receiver**: Requires Windows with DirectX Video Acceleration (DXVA2) support.
-- **Disk Space**: At least 100 MB of free space
+- **Disk Space**: At least 200 MB of free space
 
 ### **Dependencies**
 
