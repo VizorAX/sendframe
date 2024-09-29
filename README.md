@@ -1,9 +1,9 @@
 # Vizor.Sendframe
 
-[![Latest Release](https://img.shields.io/github/v/release/username/project-name)](https://github.com/VizorAX/sendframe/releases)
-[![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/VizorAX/sendframe)](https://github.com/VizorAX/sendframe/releases)
+[![License](https://img.shields.io/github/license/VizorAX/sendframe)](LICENSE)
 
-> **Vizor Frame Streaming Suite** includes `vizor.sendframe.exe` and `vizor.recvframe.exe` for efficient, low-latency video streaming over a network using HEVC and hardware acceleration.
+> **Vizor.Sendframe** includes both `vizor.sendframe.exe` and `vizor.recvframe.exe` for efficient, low-latency video streaming over a network using HEVC and hardware acceleration.
 
 ---
 
