@@ -67,7 +67,8 @@ If you encounter issues, try the following:
 - **Check for Updates**: Ensure you have the latest version from the [Releases](https://github.com/VizorAX/sendframe/releases) page.
 - **Verify Hardware Compatibility**: Make sure your hardware meets the requirements (NVIDIA GPU for the streamer, DXVA2 support on Windows for the receiver).
 - **Verify Parameters**: Double-check command-line arguments for correctness.
-- **Contact Support**: Reach out to support@example.com with details of your issue.
+- **Ensure Stable Connection**: Make sure your network connection is stable, and if possible, use ethernet cables instead of wireless networks to minimize latency and packet loss.
+- **Contact Support**: Reach out to [Email](mailto:sansorich@gmail.com) with details of your issue.
 
 📄 **License**
 --------------
